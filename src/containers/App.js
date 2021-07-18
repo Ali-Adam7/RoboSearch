@@ -1,8 +1,8 @@
-import Logo from './components/Logo.js';
-import CardList from "./components/cardList"
-import SearchBar from './components/Searchbar.js'
+import Logo from '../components/Logo.js';
+import CardList from "../components/cardList"
+import SearchBar from '../components/Searchbar.js'
 import {Component} from 'react'
-import Scroll from './components/Scroll'
+import Scroll from '../components/Scroll'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { Row } from 'react-bootstrap';

@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import './App.css'
-import reportWebVitals from './reportWebVitals';
+import './containers/App.css'
+import reportWebVitals from './containers/reportWebVitals';
 import "tachyons"
-import App from './App'
+import App from './containers/App'
 
 
 ReactDOM.render(
